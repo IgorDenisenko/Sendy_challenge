@@ -1,6 +1,7 @@
 ## Решение соревнования [sendy logistics challenge](https://zindi.africa/competitions/sendy-logistics-challenge)
 
 **Задача:** Предсказать время доставки заказа 
+
 **Метрика :** RMSE
 
 **Результат :** 76 место из 433 участников
